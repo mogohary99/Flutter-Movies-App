@@ -1,7 +1,15 @@
-# movies
+# Flutter-Movies-App
 
 A new Flutter application.
+ I have covered the following important topics in the series:
 
+Repository and BLoC pattern
+
+Separating UI and business logic
+
+Dependency Injection
+
+Unit and Integration testing
 ## Getting Started
 
 This project is a starting point for a Flutter application.
